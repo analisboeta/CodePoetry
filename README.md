@@ -1,2 +1,0 @@
-# CodePoetry
-Code Poetry Projects!

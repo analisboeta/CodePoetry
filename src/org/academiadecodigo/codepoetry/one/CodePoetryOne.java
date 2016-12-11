@@ -2,7 +2,16 @@
  * Created by <Boolegans_Code Cadet> Ana Lourenço on 01/11/16.
  */
 
-public class ChopSuey {
+
+/**
+ * Sings the first verse for the song Chop Suey, sung by the rock band System of a Down.
+ *
+ * This was inspired by the following meme:
+ * @see {org/academiadecodigo/codepoetry/two/one/inspiration/memeInspiration.jpg}
+ * The first verse starts at the 0:43s mark in the following link:
+ * @see <a href="https://youtu.be/CSvFpBOe8eY?t=43s">Youtube Link</a>
+ */
+public class CodePoetryOne {
 
     public static void main(String[] args) {
 
