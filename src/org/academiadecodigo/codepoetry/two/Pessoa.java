@@ -53,7 +53,7 @@ public class Pessoa {
         System.out.println("trinquei, ");
     }
 
-    public void meter(Pessoa pessoa, Local cesta) {
+    public void meter(Pessoa pessoa, ContainerOfThings cesta) {
         System.out.println("e meti-te na cesta");
     }
 

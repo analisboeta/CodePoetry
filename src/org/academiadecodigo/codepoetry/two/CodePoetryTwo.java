@@ -1,8 +1,10 @@
 package org.academiadecodigo.codepoetry.two;
 
 /**
- * Created by <Boolegans_code_cadet> Ana Lourenço on 10/12/16.
+ * Created by <Boolegans_Code Cadet> Ana Lourenço on 10/12/16.
  */
+
+
 public class CodePoetryTwo {
 
     /**
