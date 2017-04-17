@@ -7,6 +7,6 @@ SOAD's System of a Down, first verse!
 ## Two
 Dina's Amor D'Água Fresca, the chorus!
 
-## Three
+## Three -- WIP
 "Good things come to those who wait // Quem espera sempre alcança" the proverb!
 
