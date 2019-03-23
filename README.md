@@ -1,5 +1,6 @@
 # CodePoetry
-Code Poetry Projects!A challenge our teachers at < Academia de Código_ > gave us!
+Code Poetry Projects!
+A project that started with a challenge given at < Academia de Código_ >'s bootcamp!
 
 ## One
 SOAD's System of a Down, first verse!
